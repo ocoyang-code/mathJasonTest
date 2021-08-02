@@ -6,7 +6,7 @@
     {
         "qus_id": 2,
         "qus_body": "x = {-b \\pm \\sqrt{b^2-4ac} \\over 2a}."
-    }
+    },
     {
         "qus_id": 3,
         "qus_body": "x = {-b \pm \sqrt{b^2-4ac} \over 2a}."
